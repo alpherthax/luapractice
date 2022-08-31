@@ -1,6 +1,6 @@
 ## 필독사항(KR)
 
-_파이썬 연습작_ 을 보관하기 위해 만든 저장소입니다.
+_루아 연습작_ 을 보관하기 위해 만든 저장소입니다.
 
 ### 참고
 
@@ -11,7 +11,7 @@ _파이썬 연습작_ 을 보관하기 위해 만든 저장소입니다.
 
 ## Read Me (EN)
 
-This page was repositoried commite _my python practice works_.
+This page was repositoried commite _my lua practice works_.
 
 ### Insp
 
