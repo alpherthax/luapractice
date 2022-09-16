@@ -53,7 +53,7 @@ end
 local MathScore = {11, 24, 45, 76, 78, 99}
 local sum = 0
 for _, score in ipairs{MathScore} do
-    sum = sum + score
+    sum = sum + score --왜 여기서 오류가 난다고 그러지
 end
 local average = sum/#MathScore
 print(sum, average)
